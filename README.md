@@ -1,4 +1,4 @@
-![nabektur's GitHub stats](https://github-readme-stats.vercel.app/api?username=nabektur&show_icons=true&theme=radical)
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 ## Hi there 👋
