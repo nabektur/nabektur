@@ -1,7 +1,6 @@
 <img src="https://count.getloli.com/get/@:nabektur?theme=asoul">
 
-# Just chilling
-<h3> Discord: xxaucep </h3>
+<h3> Just chilling <3 </h3>
 
 ![Stats](./profile/stats.svg)
 
