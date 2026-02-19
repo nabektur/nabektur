@@ -1,3 +1,5 @@
+![nabektur's GitHub stats](https://github-readme-stats.vercel.app/api?username=nabektur&show_icons=true&theme=merko)
+
 ![Snake animation](https://github.com/nabektur/nabektur/blob/output/github-contribution-grid-snake.svg)
 
 <!--
