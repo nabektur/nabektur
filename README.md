@@ -1,4 +1,4 @@
-<img src="https://count.getloli.com/get/@:artyomkad?theme=asoul">
+<img src="https://count.getloli.com/get/@:nabektur?theme=asoul">
 
 # Just chilling
 <h3> Discord: xxaucep </h3>
