@@ -1,5 +1,4 @@
-### Just chilling
-#
+# Just chilling
 
 
 ![Stats](./profile/stats.svg)
