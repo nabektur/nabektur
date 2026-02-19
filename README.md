@@ -1,3 +1,5 @@
+### Just chilling
+
 ![Stats](./profile/stats.svg)
 
 ![Snake animation](https://github.com/nabektur/nabektur/blob/output/github-contribution-grid-snake.svg)
