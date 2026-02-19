@@ -1,4 +1,4 @@
-<img src="https://count.getloli.com/get/@:nabektur?theme=asoul">
+![View Count]([./profile/stats.svg](https://count.getloli.com/get/@:nabektur?theme=asoul))
 # just chilling <3 
 
 ![Stats](./profile/stats.svg)
