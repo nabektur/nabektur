@@ -1,6 +1,5 @@
 <img src="https://count.getloli.com/get/@:nabektur?theme=asoul">
-
-<h3> Just chilling <3 </h3>
+# just chilling <3 
 
 ![Stats](./profile/stats.svg)
 
